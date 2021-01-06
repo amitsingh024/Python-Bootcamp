@@ -8,5 +8,6 @@ print("Day 1 - Python Print Function \n""The function is declared like this: \n"
 print("Hello"+"Amit")
 print("Hello"+ " "+"Amit")
 
+#Learning Print Statement
 
 
